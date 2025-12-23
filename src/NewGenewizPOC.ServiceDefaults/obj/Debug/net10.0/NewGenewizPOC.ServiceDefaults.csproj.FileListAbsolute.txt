@@ -1,0 +1,12 @@
+/Users/alui.alarid/Projects/Work/Genewiz/newgenewiz-platform-poc/newgenewiz-apiservice-poc/src/NewGenewizPOC.ServiceDefaults/bin/Debug/net10.0/NewGenewizPOC.ServiceDefaults.deps.json
+/Users/alui.alarid/Projects/Work/Genewiz/newgenewiz-platform-poc/newgenewiz-apiservice-poc/src/NewGenewizPOC.ServiceDefaults/bin/Debug/net10.0/NewGenewizPOC.ServiceDefaults.dll
+/Users/alui.alarid/Projects/Work/Genewiz/newgenewiz-platform-poc/newgenewiz-apiservice-poc/src/NewGenewizPOC.ServiceDefaults/bin/Debug/net10.0/NewGenewizPOC.ServiceDefaults.pdb
+/Users/alui.alarid/Projects/Work/Genewiz/newgenewiz-platform-poc/newgenewiz-apiservice-poc/src/NewGenewizPOC.ServiceDefaults/obj/Debug/net10.0/NewGenewizPOC.ServiceDefaults.csproj.AssemblyReference.cache
+/Users/alui.alarid/Projects/Work/Genewiz/newgenewiz-platform-poc/newgenewiz-apiservice-poc/src/NewGenewizPOC.ServiceDefaults/obj/Debug/net10.0/NewGenewizPOC.ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alui.alarid/Projects/Work/Genewiz/newgenewiz-platform-poc/newgenewiz-apiservice-poc/src/NewGenewizPOC.ServiceDefaults/obj/Debug/net10.0/NewGenewizPOC.ServiceDefaults.AssemblyInfoInputs.cache
+/Users/alui.alarid/Projects/Work/Genewiz/newgenewiz-platform-poc/newgenewiz-apiservice-poc/src/NewGenewizPOC.ServiceDefaults/obj/Debug/net10.0/NewGenewizPOC.ServiceDefaults.AssemblyInfo.cs
+/Users/alui.alarid/Projects/Work/Genewiz/newgenewiz-platform-poc/newgenewiz-apiservice-poc/src/NewGenewizPOC.ServiceDefaults/obj/Debug/net10.0/NewGenewizPOC.ServiceDefaults.csproj.CoreCompileInputs.cache
+/Users/alui.alarid/Projects/Work/Genewiz/newgenewiz-platform-poc/newgenewiz-apiservice-poc/src/NewGenewizPOC.ServiceDefaults/obj/Debug/net10.0/NewGenewizPOC.ServiceDefaults.dll
+/Users/alui.alarid/Projects/Work/Genewiz/newgenewiz-platform-poc/newgenewiz-apiservice-poc/src/NewGenewizPOC.ServiceDefaults/obj/Debug/net10.0/refint/NewGenewizPOC.ServiceDefaults.dll
+/Users/alui.alarid/Projects/Work/Genewiz/newgenewiz-platform-poc/newgenewiz-apiservice-poc/src/NewGenewizPOC.ServiceDefaults/obj/Debug/net10.0/NewGenewizPOC.ServiceDefaults.pdb
+/Users/alui.alarid/Projects/Work/Genewiz/newgenewiz-platform-poc/newgenewiz-apiservice-poc/src/NewGenewizPOC.ServiceDefaults/obj/Debug/net10.0/ref/NewGenewizPOC.ServiceDefaults.dll
