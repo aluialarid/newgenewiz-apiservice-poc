@@ -397,8 +397,6 @@ FodyWeavers.xsd
 # JetBrains Rider
 *.sln.iml
 .idea/
-# except for certain directories
-!.idea/.idea.*/.idea/.gitignore
 
 # macOS
 .DS_Store
@@ -423,4 +421,3 @@ FodyWeavers.xsd
 Network Trash Folder
 Temporary Items
 .apdisk
-
